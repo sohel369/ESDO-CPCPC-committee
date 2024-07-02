@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table-responsive table thead th {
+    background: #26c281;
+    color: #f7f9f7;
+}
+
+.table-responsive table tbody tr .badge {
+    background: #2ecc71;
+    padding: 6px;
+    font-size: 20px;
+}
+
+
